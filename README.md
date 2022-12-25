@@ -1,2 +1,2 @@
 # -JS101_Learning_Javascript
-//hELlo JavaSCript
+hELlo JavaSCript
